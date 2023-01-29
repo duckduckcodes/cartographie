@@ -43,7 +43,7 @@ we introduce a car traffic recognition solution based on video recognition techn
 
 ## step 1: done
 
-![feature extraction]("./assets/example_feature_recognition.png")
+![feature extraction](assets/example_feature_recognition.png)
 
 write python program that take a video of a car on a road, put some repair point on it,
 
